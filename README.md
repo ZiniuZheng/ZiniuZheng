@@ -1,6 +1,6 @@
 ## Hi, I'm Ziniu Zheng
 
-EECS undergraduate at **UC Berkeley** (B.S., expected Dec 2027), open to **software engineering internship and full-time roles**.
+EECS undergraduate at **UC Berkeley**, open to **software engineering internship and full-time roles**.
 
 I build full-stack web and mobile applications and LLM-powered agents — backend services in Java / Spring Boot, Go and Node.js, frontends in React, deployed on AWS and GCP.
 
